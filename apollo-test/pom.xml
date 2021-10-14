@@ -58,6 +58,12 @@
             <artifactId>apollo-client</artifactId>
             <version>1.4.1-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>com.douyu.ocean</groupId>
+            <artifactId>ocean-damp-client-sdk</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+            <type>jar</type>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
