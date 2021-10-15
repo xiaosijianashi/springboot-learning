@@ -14,8 +14,5 @@ public class HelloWorldController {
 
 
 
-//	@RequestMapping("/2.jpg")
-//	public String hello() {
-//		return "aaaa";
-//	}
+
 }
