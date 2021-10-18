@@ -1,0 +1,6 @@
+douyu:
+  appname: bd-ocean-damp-java #tiano中应用标识
+
+spring:
+  profiles:
+    active: dev #配置文件名

@@ -1,0 +1,10 @@
+cn\liyong\test\springboot\entity\api\HopeRequest$HopeRequestBuilder.class
+cn\liyong\test\springboot\entity\api\HopeRequest.class
+cn\liyong\test\springboot\entity\api\HopeResponse.class
+cn\liyong\test\springboot\entity\sys\SysUser.class
+cn\liyong\test\springboot\service\SysUserService.class
+cn\liyong\test\springboot\entity\sys\UserTest.class
+cn\liyong\test\springboot\entity\sys\SysUserDTO.class
+cn\liyong\test\SpringbootWeb01Application.class
+cn\liyong\test\springboot\controller\HelloWorldController.class
+cn\liyong\test\springboot\entity\api\HopeResponse$HopeResponseBuilder.class
