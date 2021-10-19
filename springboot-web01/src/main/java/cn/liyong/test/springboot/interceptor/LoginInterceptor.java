@@ -6,9 +6,10 @@ import org.springframework.web.servlet.ModelAndView;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 
 /**
- * This is Description
+ * 登录拦截器
  *
  * @author liyong
  * @date 2021/10/18
@@ -26,7 +27,8 @@ public class LoginInterceptor implements HandlerInterceptor {
 	 */
 	@Override
 	public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
-		request.getSession();
+		HttpSession session = request.getSession();
+
 		return false;
 	}
 
