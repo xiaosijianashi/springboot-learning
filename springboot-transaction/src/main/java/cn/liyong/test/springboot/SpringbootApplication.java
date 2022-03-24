@@ -20,7 +20,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 public class SpringbootApplication {
     public static void main(String[] args) throws Exception{
         ConfigurableApplicationContext content = SpringApplication.run(SpringbootApplication.class, args);
-        StudentService studentService = (StudentService) content.getBean("studentService");
-        studentService.saveStudent("小周");
+        //StudentService studentService = (StudentService) content.getBean("studentService");
+        //studentService.saveStudent("小周");
     }
 }
