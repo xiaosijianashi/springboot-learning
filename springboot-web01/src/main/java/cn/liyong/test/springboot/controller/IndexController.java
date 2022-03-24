@@ -23,8 +23,8 @@ public class IndexController {
 
     /**
      * 主页
-     * @param username
-     * @param password
+     * @param user
+     * @param session
      * @return
      */
     @PostMapping("/login")

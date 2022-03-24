@@ -18,7 +18,8 @@
 	<modules>
 		<module>springboot-web01</module>
 		<module>apollo-test</module>
-	</modules>
+        <module>springboot-transaction</module>
+    </modules>
 
 	<dependencyManagement>
 		<dependencies>
